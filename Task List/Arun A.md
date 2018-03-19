@@ -98,7 +98,6 @@
 | 14CSA13                                                              |                   Arun A       | 08.03.2028 | 1.00 PM to 4.30PM   | Checking the flow for Insert Data for multiple class subjects | In Progress | 
 | 14CSA13                                                              |                   Arun A       | 09.03.2028 | 10.45.00 AM to 4.30PM   | Insert Data for multiple class subjects | Completed | 
 | 14CSA13                                                              |                   Arun A       | 12.03.2028 | 9.00 AM to 4.30PM   | Phase-1 Demo data entry in web portal in college | Completed | 
-| 14CSA13                                                              |                   Arun A       | 12.03.2028 | 9.00 AM to 4.30PM   | Phase-2 Demo data entry for single class submission in college | Completed | 
-| 14CSA13                                                              |                   Arun A       | 13.03.2028 |9.00 AM to 4.30PM  | Phase-3 Demo data entry report submission in college | Completed | 
-| 14CSA13                                                              |                   Arun A       | 14.03.2028 | 9.00 AM to 4.30PM   | Phase-4 Demo Testing and Error correctio in college | Completed | 
+| 14CSA13                                                              |                   Arun A       | 13.03.2028 | 9.00 AM to 4.30PM   | Phase-2 Demo data entry for single class submission in college | Completed | 
+| 14CSA13                                                              |                   Arun A       | 14.03.2028 |9.00 AM to 12.30PM  | Phase-3 Demo data entry report generate, testing and error handling in college | Completed | 
 | 14CSA13                                                              |                   Arun A       | 15.03.2028 | 9.00 AM to 4.30PM   | Live Demo in college | Completed | 

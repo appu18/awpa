@@ -92,3 +92,6 @@
 | 14CSA04                                     | Alagammai M S                  | 05.03.2018 | 1.00 PM to 4.30PM              | Navigate to Report Form             | In Progress | 
 | 14CSA04                                     | Alagammai M S                  | 06.03.2018 | 1.00 AM to 4.30PM              | Navigate to Report Form             | In Progress | 
 | 14CSA04                                     | Alagammai M S                  | 07.03.2018 | 1.00 AM to 4.30PM              | Navigate to Report Form             | In Progress | 
+| 14CSA04                                     | Alagammai M S                  | 08.03.2018 | 1.00 AM to 4.30PM              | Navigate to Report Form             | Completed |
+| 14CSA04                                     | Alagammai M S                  | 09.03.2018 | 1.00 AM to 4.30PM              | Generating  Report              | Completed |
+

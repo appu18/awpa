@@ -96,5 +96,10 @@
 | 14CSA17                                     | Divya M                               | 05.03.2018 |       1.00 PM to 4.30PM        | Separate data for different Files   | In Progress | 
 | 14CSA17                                     | Divya M                               | 06.03.2018 |       1.00 PM to 4.30PM        | Separate data for different Files   | In Progress | 
 | 14CSA17                                     | Divya M                               | 07.03.2018 |       1.00 PM to 4.30PM        | Separate data for different Files   | In Progress | 
-| 14CSA17                                     | Divya M                               | 08.03.2018 |       9.00 AM to 4.30PM        |   Manual verification| In Progress | 
-| 14CSA17                                     | Divya M                               | 09.03.2018 |       9.00 AM to 4.30PM        | checking the flow in all Files   | In Progress | 
+| 14CSA17                                     | Divya M                               | 08.03.2018 |       9.00 AM to 4.30PM        |   Manual verification| Completed | 
+| 14CSA17                                     | Divya M                               | 09.03.2018 |       9.00 AM to 4.30PM        | checking the flow in all Files   | Completed | 
+| 14CSA17                                                              |                   Divya M       | 12.03.2028 | 9.00 AM to 4.30PM   | Phase-1 Demo data entry in web portal in college | Completed | 
+| 14CSA17                                                              |                   Divya M       | 13.03.2028 | 9.00 AM to 4.30PM   | Phase-2 Demo data entry for single class submission in college | Completed | 
+| 14CSA17                                                              |                   Divya M       | 14.03.2028 |9.00 AM to 12.30PM  | Phase-3 Demo data entry report generate, testing and error handling in college | Completed | 
+| 14CSA17                                                              |                   Divya M       | 15.03.2028 | 9.00 AM to 4.30PM   | Live Demo in college | Completed | 
+

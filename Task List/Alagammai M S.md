@@ -94,4 +94,8 @@
 | 14CSA04                                     | Alagammai M S                  | 07.03.2018 | 1.00 AM to 4.30PM              | Navigate to Report Form             | In Progress | 
 | 14CSA04                                     | Alagammai M S                  | 08.03.2018 | 1.00 AM to 4.30PM              | Navigate to Report Form             | Completed |
 | 14CSA04                                     | Alagammai M S                  | 09.03.2018 | 1.00 AM to 4.30PM              | Generating  Report              | Completed |
+| 14CSA04                                                              |                   Alagammai M S       | 12.03.2028 | 9.00 AM to 4.30PM   | Phase-1 Demo data entry in web portal in college | Completed | 
+| 14CSA04                                                              |                   Alagammai M S       | 13.03.2028 | 9.00 AM to 4.30PM   | Phase-2 Demo data entry for single class submission in college | Completed | 
+| 14CSA04                                                              |                   Alagammai M S       | 14.03.2028 |9.00 AM to 12.30PM  | Phase-3 Demo data entry report generate, testing and error handling in college | Completed | 
+| 14CSA04                                                              |                  Alagammai M S      | 15.03.2028 | 9.00 AM to 4.30PM   | Live Demo in college | Completed | 
 

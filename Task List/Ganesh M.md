@@ -96,3 +96,5 @@
 | 14CSA19                                     | Ganesh M                              | 05.03.2018 |       1.00 PM to 5.00PM        | Learning udacity                                 | In Progress       | 
 | 14CSA19                                     | Ganesh M                              | 06.03.2018 |       1.00 PM to 4.30PM        | Learning udacity                                 | In Progress       | 
 | 14CSA19                                     | Ganesh M                              | 07.03.2018 |       1.00 PM to 4.30PM        | Learning udacity                                 | In Progress       | 
+| 14CSA19                                     | Ganesh M                              | 08.03.2018 |       1.00 PM to 4.30PM        | Learning udacity                                 | In Progress       | 
+| 14CSA19                                     | Ganesh M                              | 09.03.2018 |       1.00 PM to 4.30PM        | Learning udacity                                 | In Progress       | 

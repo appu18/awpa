@@ -98,3 +98,7 @@
 | 14CSA19                                     | Ganesh M                              | 07.03.2018 |       1.00 PM to 4.30PM        | Learning udacity                                 | In Progress       | 
 | 14CSA19                                     | Ganesh M                              | 08.03.2018 |       1.00 PM to 4.30PM        | Learning udacity                                 | In Progress       | 
 | 14CSA19                                     | Ganesh M                              | 09.03.2018 |       1.00 PM to 4.30PM        | Learning udacity                                 | In Progress       | 
+| 14CSA19                                                              |                   Ganesh M       | 12.03.2028 | 9.00 AM to 4.30PM   | Phase-1 Demo data entry in web portal in college | Completed | 
+| 14CSA19                                                              |                   Ganesh M       | 13.03.2028 | 9.00 AM to 4.30PM   | Phase-2 Demo data entry for single class submission in college | Completed | 
+| 14CSA19                                                              |                   Ganesh M       | 14.03.2028 |9.00 AM to 12.30PM  | Phase-3 Demo data entry report generate, testing and error handling in college | Completed | 
+| 14CSA19                                                              |                   Ganesh M       | 15.03.2028 | 9.00 AM to 4.30PM   | Live Demo in college | Completed | 
